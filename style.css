@@ -872,6 +872,8 @@ body {
     .hero { flex-direction: column; text-align: center; justify-content: center; gap: 64px; }
     .hero-content { align-items: center; display: flex; flex-direction: column; }
     .hero-cta { justify-content: center; }
+    .role-item { width: 100%; text-align: center; left: 0; }
+    .scroll-indicator { display: none; }
     .about-grid { grid-template-columns: 1fr; gap: 40px; }
     .skills-grid { grid-template-columns: repeat(2, 1fr); }
 }
